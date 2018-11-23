@@ -3,10 +3,10 @@
 global $config;
 $config = array();
 
-define("BASE","http://localhost:8888/akala-backend");
+define("BASE","http://localhost:8888/akala");
 define("BASEADMIN", BASE. "admin");
 define("BASEDIR", __DIR__ . '/');
-define("PROJECTPATH", dirname(__DIR__) . '/akala-backend');
+define("PROJECTPATH", dirname(__DIR__) . '/akala');
 
 $config['dbname']= 'akala_DB';
 $config['host']= 'localhost';

@@ -46,5 +46,9 @@ class indexController extends Controller {
 	public function daftar(){
 		$this->loadTemplate('daftar');
 	}
+	public function help(){
+		$result=$this->Admin->getsAll();
+		$this->loadTemplate('help');
+	}
 	
 }

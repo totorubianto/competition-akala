@@ -1,3 +1,3 @@
 <div class="alert alert-danger" role="alert">
-  Halaman illang gawa kucing
+  404 not found
 </div>

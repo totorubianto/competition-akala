@@ -137,7 +137,7 @@
 
       <div class="row">
         <div class="col-md-3">
-          <img width="150" src="<?php echo BASE ?>/assets/img/logo.1.svg" alt="">
+          <img width="150" src="<?php echo BASE ?>/assets/img/logo.svg" alt="">
         </div>
         <div class="col-md-3">
           <p class="judul-footer">Apa itu Akala?</p>
