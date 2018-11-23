@@ -50,5 +50,6 @@ class indexController extends Controller {
 		$result=$this->Admin->getsAll();
 		$this->loadTemplate('help');
 	}
+
 	
 }
