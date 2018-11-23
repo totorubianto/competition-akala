@@ -1,19 +1,21 @@
-<section class="hero is-padding is-primary is-bold">
+<section class="hero is-padding background">
     <div class="hero-body font-white">
         <div class="container">
-            <div class="level">
-                <div class="level-item has-text-centered">
-                    <h1 class="title">
-                        Kami Siap Membantu
-                    </h1>
-                </div>
-            </div>
-            <div class="row justify-content-md-center">
-                <div class="col-md-5">
-                    <div class="control">
-                        <input class="input" type="text" placeholder="Cari yang anda butuhkan">
-                    </div>
-                </div>
+            <h1 class="title">
+                Akala
+            </h1>
+            <h2 class="subtitle">
+                Next generation of learning
+            </h2>
+            <p>
+                Education is the most powerful
+            </p>
+            <p>
+                weapon which you can use to change the world
+            </p>
+            <div class="buttons" style="padding-top:20px;">
+                <a href="" class="button is-primary">Daftar</a>
+                <a href="" class="button is-primary is-inverted is-outlined">Pelajari</a>
             </div>
         </div>
     </div>
@@ -21,16 +23,47 @@
 
 <section class="padding-top-20">
     <div class="container">
+        <nav class="breadcrumb is-small-medium padding-top-10 " aria-label="breadcrumbs">
+            <ul>
+                <li><a href="#" class="breadcumb-color">Akala</a></li>
+                <li class="is-active"><a href="#">Home</a></li>
+            </ul>
+        </nav>
 
+        <p class="title is-4 padding-top-20">Akala</p>
+        <p class="subtitle is-6">Next generation of learning</p>
 
         <div class="row">
             <div class="col-md-3 ">
                 <div class="border padding-20">
-                    <p class="title is-6">Navigasi</p>
-                    <ul>
-                        <li><a href="" class="media is-small">Cara Menggunakan</a></li>
-                        <li><a href="" class="media is-small">Upload VR</a></li>
-                    </ul>
+                    <p class="title is-6">Kategori</p>
+                    <div class="field">
+                        <div class="control has-icons-left">
+                            <input class="input" type="email" placeholder="Search">
+                            <span class="icon is-small is-left">
+                                <i class="fa fa-search "></i>
+                            </span>
+                        </div>
+                    </div>
+
+                    <p>Pilih Kategori</p>
+
+                    <div class="padding-top-5">
+                        <input type="checkbox"> <span class="subtitle is-7">Sejarah</span><br>
+                    </div>
+                    <div class="padding-top-5">
+                        <input type="checkbox"> <span class="subtitle is-7">Antariksa</span><br>
+                    </div>
+                    <div class="padding-top-5">
+                        <input type="checkbox"> <span class="subtitle is-7">Biologi</span><br>
+                    </div>
+                    <div class="padding-top-5">
+                        <input type="checkbox"> <span class="subtitle is-7">Matematika</span><br>
+                    </div>
+
+                    <div class="margin-top-10">
+                        <a class="button is-success is-fullwidth">Cari</a>
+                    </div>
 
                 </div>
             </div>

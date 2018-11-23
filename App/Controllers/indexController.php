@@ -50,6 +50,8 @@ class indexController extends Controller {
 		$result=$this->Admin->getsAll();
 		$this->loadTemplate('help');
 	}
-
+	public function teka(){
+		$this->loadTemplate('teka');
+	}
 	
 }
