@@ -3,17 +3,12 @@
 global $config;
 $config = array();
 
-<<<<<<< HEAD
-define("BASE","http://localhost:8888/akala-backend");
-define("BASEADMIN", BASE. "admin");
-define("BASEDIR", __DIR__ . '/');
-define("PROJECTPATH", dirname(__DIR__) . '/akala-backend');
-=======
+
 define("BASE","http://localhost:8888/akala-project");
 define("BASEADMIN", BASE. "admin");
 define("BASEDIR", __DIR__ . '/');
 define("PROJECTPATH", dirname(__DIR__) . '/akala-project');
->>>>>>> 92faec401d52ed4001b268f6046b4f1a882729ed
+
 
 $config['dbname']= 'akala_DB';
 $config['host']= 'localhost';
