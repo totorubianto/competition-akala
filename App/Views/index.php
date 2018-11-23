@@ -14,7 +14,7 @@
                 weapon which you can use to change the world
             </p>
             <div class="buttons" style="padding-top:20px;">
-                <a href="" class="button is-button-primary">Daftar</a>
+                <a href="" class="button is-primary">Daftar</a>
                 <a href="" class="button is-primary is-inverted is-outlined">Pelajari</a>
             </div>
         </div>
