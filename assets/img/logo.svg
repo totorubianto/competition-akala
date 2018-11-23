@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 138 43">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #6b6b6b;
+        font-size: 25px;
+      }
+
+      .cls-1, .cls-4 {
+        font-family: ProximaNova-Semibold, Proxima Nova;
+        font-weight: 600;
+      }
+
+      .cls-2 {
+        fill: #675c5c;
+        font-size: 14px;
+        font-family: ProximaNovaA-Regular, Proxima Nova Alt;
+      }
+
+      .cls-3 {
+        fill: #3bb46e;
+      }
+
+      .cls-4 {
+        fill: #fff;
+        font-size: 19px;
+      }
+    </style>
+  </defs>
+  <g id="Group_8" data-name="Group 8" transform="translate(-103 -16)">
+    <g id="Group_6" data-name="Group 6">
+      <text id="_4kala" data-name="4kala" class="cls-1" transform="translate(155 39)"><tspan x="0" y="0">4kala</tspan></text>
+      <text id="you_are_smart" data-name="you are smart" class="cls-2" transform="translate(155 55)"><tspan x="0" y="0">you are smart</tspan></text>
+    </g>
+    <g id="Group_7" data-name="Group 7">
+      <rect id="Rectangle_10" data-name="Rectangle 10" class="cls-3" width="40" height="40" rx="4" transform="translate(103 19)"/>
+      <text id="AK" class="cls-4" transform="translate(109.667 45.167)"><tspan x="0" y="0">AK</tspan></text>
+    </g>
+  </g>
+</svg>

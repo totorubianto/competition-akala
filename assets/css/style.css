@@ -1,0 +1,218 @@
+.padding-top-10{
+  padding-top: 10px;
+}
+
+.padding-top-5{
+  padding-top: 5px;
+}
+
+.padding-top-20{
+  padding-top: 20px;
+}
+
+.padding-top-30{
+  padding-top: 30px;
+}
+
+.padding-top-40{
+  padding-top: 40px;
+}
+
+.padding-top-50{
+  padding-top: 50px;
+}
+
+.padding-top-60{
+  padding-top: 60px;
+}
+
+.padding-top-70{
+  padding-top: 70px;
+}
+
+.padding-top-80{
+  padding-top: 80px;
+}
+
+.padding-top-90{
+  padding-top: 90px;
+}
+
+.padding-top-100{
+  padding-top: 100px;
+}
+.padding-bottom-5px{
+  padding-bottom: 5px;
+}
+.margin-top-10{
+  padding-top: 10px;
+}
+
+iframe { border: 0; }
+
+
+/* ==============iframe responsive================= */
+/* MOBILE */
+@media screen and (max-width: 600px) {
+  iframe {
+    height: 240px;
+  }
+}
+/* DESKTOP */
+@media screen and (min-width: 600px) {
+  iframe {
+    height: 500px;
+    width: 100%;
+    margin: 1rem auto;
+    display: block;
+  }
+}
+/* ==============End iframe responsive================= */
+
+/* ==============index================= */
+.padding-20{
+  padding: 20px;
+}
+.is-100{
+  height: 100vh;
+}
+.is-none{
+  cursor: default;
+  border: none;
+  background-color: white !important;
+
+}
+.border-rounded{
+  border-radius: 50px;
+}
+.height48{
+  height: 48px;;
+}
+.width-search{
+  width: 400px;
+}
+.is-padding{
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.background{
+  background-image: url('../img/background.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.background1{
+  background-image: url('../img/background1.svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.font-white{
+  color: white;
+}
+.font-white .container .title{
+  color: white;
+}
+.font-white .container .subtitle{
+  color: white;
+}
+
+.border{
+  border: #ececec solid 0.5px;
+  border-radius: 3px;
+}
+.padding-top-bottom-60{
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.margin-top-120{
+  margin-top: 120px;
+}
+.black-grey{
+  background-color: #1f242c;
+}
+.item-footer{
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.38;
+  letter-spacing: normal;
+  text-align: left;
+  color: #8b96a2;
+
+}
+.judul-footer{
+  font-size: 18px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  color: #ffffff;
+
+}
+.sosmed{
+  color: white;
+  padding-right: 10px;
+}
+.sosmed:hover{
+  color: rgb(165, 165, 165);
+
+}
+.black{
+  background-color: #1a1d1f;
+}
+.width200{
+  width: 200px;
+}
+.padding-bottom-10{
+  padding-bottom: 10px;
+}
+.padding-bottom-20{
+  padding-bottom: 30px;
+}
+.padding-bottom-4{
+  padding-bottom: 4px;
+}
+.border-bottom{
+ border-bottom: #ececec solid 0.5px;
+
+}
+.login{
+  font-size: 24px;
+  font-weight: bold;
+}
+/* responsif */
+.paddingtopbottom{
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+@media (max-width: 1087px) {
+  .width-search{
+    width:100%;
+  }
+}
+.flex{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bg_white{
+  background-color: white;
+  border-radius: 5px;
+}
+.margin-top-30px{
+  margin-top: 30px;
+}
+.margintop20px{
+  margin-top: 20px;
+}
+.width100{
+  width: 100%;
+}
+.padding30px{
+  padding: 30px;
+}
+/* ==============End index responsive================= */
+.bulat{
+  border-radius: 100px;
+}
