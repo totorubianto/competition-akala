@@ -120,9 +120,7 @@
         <div class="row">
             <div class="col-md-8">
                 <h6 class="title is-6">Deskripsi</h6>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error odio amet nihil deserunt. Itaque
-                    similique libero omnis obcaecati. Error laboriosam porro neque rerum alias numquam aliquam, aut
-                    mollitia. Adipisci nemo vero quibusdam.</p>
+                <p>Tata Surya adalah kumpulan benda langit yang terdiri atas sebuah bintang yang disebut Matahari dan semua objek yang terikat oleh gaya gravitasinya.</p>
             </div>
             <div class="col-md-4">
                 <div class="box" style="padding:6px;">
