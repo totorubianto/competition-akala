@@ -53,5 +53,8 @@ class indexController extends Controller {
 	public function teka(){
 		$this->loadTemplate('teka');
 	}
+	public function leaderboard(){
+		$this->loadTemplate('leaderboard');
+	}
 	
 }
