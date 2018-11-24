@@ -31,9 +31,9 @@
                     <div>
 
                         <div class="flex-leader margin-bottom-20px">
-                            <img class="leader-img" src="<?php echo BASE ?>/assets/img/orang.png">
+                            <img class="leader-img" src="<?php echo BASE ?>/assets/img/p_gilang.jpg">
                             <div class="padding-left-20">
-                                <p class="title-leaderboard2">Toto Rubianto</p>
+                                <p class="title-leaderboard2">Kharis Azhar</p>
                                 <p class="subtitle-leaderboard">Tingkatkan terus prestasimu dan dapatkan hadiahnya</p>
                             </div>
                             <div class="flex-end">
