@@ -20,7 +20,7 @@
     <div class="container">
       <nav class="navbar" role="navigation" aria-label="main navigation">
         <div class="navbar-brand">
-          <a class="navbar-item" href="">
+          <a class="navbar-item" href="<?php echo BASE?>/index/index">
             <img src="<?php echo BASE ?>/assets/img/logo.svg" width="112" height="28">
           </a>
 
@@ -37,7 +37,7 @@
               <div class="field is-grouped">
                 <p class="control width-search height48 has-icons-left"> 
                   <input class="input border-rounded height48 width-search" type="text" placeholder="Search Photo or Video 360">
-                  <span class="icon is-small is-left">
+                  <span class="icon is-small is-left padding-top-10 ">
                     <i class="fa fa-search"></i>
                   </span>
                 </p>
@@ -141,15 +141,13 @@
         </div>
         <div class="col-md-3">
           <p class="judul-footer">Apa itu Akala?</p>
-          <p class="item-footer margin-top-10">Lorem Ipsum is simply dummy text 
-            of the printing and typesetting 
-          industry. Lorem Ipsum </p>
+          <p class="item-footer margin-top-10">Akala merupakan website pembelajaran yang menggunakan teknologi VR (Virtual Reality).
+          </p>
         </div>
         <div class="col-md-3">
-          <p class="judul-footer">Apa itu Akala?</p>
+          <p class="judul-footer">Partner</p>
           <div class=" margin-top-10">
             <a class="item-footer" href="">sebuahstudio.com</a><br>
-            <a class="item-footer" href="">omnicreativora.com</a><br>
             <a class="item-footer" href="">kitapintar.com</a>
           </div>
 
@@ -164,22 +162,12 @@
             </a>
             <a class="sosmed">
               <span class="icon ">
-                <i class="fa fa-google"></i>
+                <i class="fa fa-instagram"></i>
               </span>
             </a>
             <a class="sosmed">
               <span class="icon ">
-                <i class="fa fa-dribbble"></i>
-              </span>
-            </a>
-            <a class="sosmed">
-              <span class="icon ">
-                <i class="fa fa-behance"></i>
-              </span>
-            </a>
-            <a class="sosmed">
-              <span class="icon ">
-                <i class="fa fa-github"></i>
+                <i class="fa fa-whatsapp"></i>
               </span>
             </a>
           </div>
@@ -210,10 +198,10 @@
         <div class="field">
          <p class="control has-icons-left has-icons-right">
           <input class="input" name="email" type="" placeholder="Email">
-          <span class="icon is-small is-left">
+          <span class="icon is-small is-left padding-top-10">
            <i class="fa fa-envelope"></i>
          </span>
-         <span class="icon is-small is-right">
+         <span class="icon is-small is-right padding-top-10">
           <i class="fa fa-check"></i>
         </span>
       </p>
@@ -221,7 +209,7 @@
     <div class="field">
       <p class="control has-icons-left">
        <input class="input" name="password" type="password" placeholder="Password">
-       <span class="icon is-small is-left">
+       <span class="icon is-small is-left padding-top-10">
         <i class="fa fa-lock"></i>
       </span>
     </p>

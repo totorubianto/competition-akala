@@ -62,7 +62,7 @@
                     </div>
 
                     <div class="margin-top-10">
-                        <a class="button is-success is-fullwidth">Cari</a>
+                        <a class="button is-primary is-fullwidth">Cari</a>
                     </div>
 
                 </div>
@@ -82,10 +82,20 @@
                                     </div>
                                     <div class="card-content">
                                         <div class="content">
+                                            <div class="row content is-small">
+                                                <div class="col-sm-5" style="">
+                                                    <i class="fa fa-eye" aria-hidden="true"></i>
+                                                    120 view
+                                                </div>
+                                                <div class="col-sm-5" style="">
+                                                    <i class="fa fa-heart-o" aria-hidden="true"></i>
+                                                    120 like
+                                                </div>
+                                            </div>
                                             <h6 class="is-6">
                                                 <?php echo $r['title']; ?>
                                             </h6>
-                                            <p>
+                                            <p class="content is-small">
                                                 <?php
                                                 $num_char = 80;
                                                 $text = $r['description'];
@@ -99,10 +109,6 @@
                         </a>
                     </div>
                     <?php } ?>
-
-
-
-
                 </div>
                 <nav class="pagination" role="navigation" aria-label="pagination">
                     <a class="pagination-previous">Previous</a>
