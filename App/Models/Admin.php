@@ -48,7 +48,6 @@ class Admin extends Model {
 			$_SESSION['masuk']=$result->fetch_assoc();
 			echo "<meta http-equiv='refresh' content='1;url=../index'>";
 		}
-
 		else
 		{
 			echo "gagal";

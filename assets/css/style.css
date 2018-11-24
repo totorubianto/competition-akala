@@ -312,3 +312,11 @@ iframe { border: 0; }
   color:#303030 !important;
   background:none;
 }
+
+
+.flex-center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}

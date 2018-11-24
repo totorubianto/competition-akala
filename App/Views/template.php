@@ -141,9 +141,8 @@
         </div>
         <div class="col-md-3">
           <p class="judul-footer">Apa itu Akala?</p>
-          <p class="item-footer margin-top-10">Lorem Ipsum is simply dummy text 
-            of the printing and typesetting 
-          industry. Lorem Ipsum </p>
+          <p class="item-footer margin-top-10">Akala merupakan website pembelajaran yang menggunakan teknologi VR (Virtual Reality)
+          </p>
         </div>
         <div class="col-md-3">
           <p class="judul-footer">Apa itu Akala?</p>
