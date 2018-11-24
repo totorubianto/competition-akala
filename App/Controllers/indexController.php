@@ -53,8 +53,13 @@ class indexController extends Controller {
 	public function teka(){
 		$this->loadTemplate('teka');
 	}
+<<<<<<< HEAD
 	public function aframe(){
 		$this->loadTemplate('aframe');
+=======
+	public function leaderboard(){
+		$this->loadTemplate('leaderboard');
+>>>>>>> 30366a08ca27af6442a1eea5e116859265fbdef8
 	}
 	
 }

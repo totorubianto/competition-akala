@@ -1,7 +1,9 @@
 .padding-top-10{
   padding-top: 10px;
 }
-
+.padding-20-px{
+  padding: 20px;
+}
 .padding-top-5{
   padding-top: 5px;
 }
@@ -313,10 +315,44 @@ iframe { border: 0; }
   background:none;
 }
 
-
+.subtitle-leaderboard{
+  color: #8691A3;
+}
+.title-leaderboard{
+  color: #617290;
+  font-size: 30px;
+}
 .flex-center{
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
+}
+.flex-leader{
+  display: flex;
+
+}
+.leader-img{
+  border-radius: 100px;
+  width: 50px;
+  height: 50px;
+}
+.padding-left-20{
+  padding-left: 20px;
+}
+.title-leaderboard2{
+  font-size: 18px;
+}
+.margin-bottom-20px{
+  margin-bottom: 30px;
+}
+.flex-end{
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.point{
+  border-radius: 20px;
+  background-color: #CDF4EE;
+  padding: 3px 20px;
 }
