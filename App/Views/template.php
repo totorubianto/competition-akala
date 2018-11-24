@@ -240,9 +240,10 @@
 </div>
 </div>
 
-
+<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 <script src='https://cdn.jsdelivr.net/npm/vue/dist/vue.js'></script>
 <script  src='<?php echo BASE ?>/assets/js/jquery.js'></script>
+<script  src='<?php echo BASE ?>/assets/js/teka.js'></script>
 <script src='<?php echo BASE ?>/assets/js/navbar.js'></script>
 <script src='<?php echo BASE ?>/assets/js/login.js'></script>
 <script src='<?php echo BASE ?>/assets/js/disqus.js'></script>
