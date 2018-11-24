@@ -75,7 +75,6 @@
                             <span>
                                 <div class="card ">
                                     <div class="card-image">
-
                                         <figure class="image is-4by3">
                                             <img src="<?php echo BASE ?>/assets/images/<?php echo $r['preview']?>" alt="Placeholder image">
                                         </figure>
@@ -109,6 +108,40 @@
                         </a>
                     </div>
                     <?php } ?>
+
+                    <div class="col-md-4 padding-bottom-20">
+                        <a href="<?php echo BASE ?>/index/aframe/">
+                            <span>
+                                <div class="card ">
+                                    <div class="card-image">
+                                        <figure class="image is-4by3">
+                                            <img src="<?php echo BASE ?>/assets/images/tata_surya-thumb.jpg" alt="Placeholder image">
+                                        </figure>
+                                    </div>
+                                    <div class="card-content">
+                                        <div class="content">
+                                            <div class="row content is-small">
+                                                <div class="col-sm-5" style="">
+                                                    <i class="fa fa-eye" aria-hidden="true"></i>
+                                                    120 view
+                                                </div>
+                                                <div class="col-sm-5" style="">
+                                                    <i class="fa fa-heart-o" aria-hidden="true"></i>
+                                                    120 like
+                                                </div>
+                                            </div>
+                                            <h6 class="is-6">
+                                                Tata Surya
+                                            </h6>
+                                            <p class="content is-small">
+                                            Tata Surya adalah kumpulan benda langit yang terdiri atas sebuah bintang yang disebut Matahari dan semua objek yang...
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </span>
+                        </a>
+                    </div>
                 </div>
                 <nav class="pagination" role="navigation" aria-label="pagination">
                     <a class="pagination-previous">Previous</a>

@@ -141,11 +141,7 @@
         </div>
         <div class="col-md-3">
           <p class="judul-footer">Apa itu Akala?</p>
-<<<<<<< HEAD
-          <p class="item-footer margin-top-10">Akala merupakan website pembelajaran yang menggunakan teknologi VR (Virtual Reality)
-=======
           <p class="item-footer margin-top-10">Akala merupakan website pembelajaran yang menggunakan teknologi VR (Virtual Reality).
->>>>>>> a3a01296c14dfb3b4036b028a3876f9bc6d933ba
           </p>
         </div>
         <div class="col-md-3">
